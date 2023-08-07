@@ -1,9 +1,3 @@
-###Qual valor deseja depositar tem q ser inteiro e positivo
-###tem q ser armazenado
-#permitir somente 3 saques diarios e no maximo 500 por saque
-#saldo não pode ser negativo
-#saque tem q ser armazenado
-
 Inicio = """
 
 [1] Deposito
